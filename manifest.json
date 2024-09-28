@@ -9,15 +9,14 @@
   "dependencies": {
     "bh.blishhud": "^1.0.0"
   },
-  "url": "https://github.com/blish-hud/Example-Blish-HUD-Module",
+  "url": "https://github.com/Flyga-M/TweenCrash",
   "contributors": [
     {
       "name": "Me",
-      "url": "https://github.com/yourGithubPage"
+      "url": "https://github.com/Flyga-M"
     }
   ],
 
-  "directories": [ ],
+  "directories": [],
   "enabled_without_gw2": false
-
 }
