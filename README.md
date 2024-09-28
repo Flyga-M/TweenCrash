@@ -3,13 +3,13 @@
 A minimal example module to reproduce the following `Tween` crashes in Blish HUD:
 - ```csharp
    System.IndexOutOfRangeException: Index was outside the bounds of the array.
-   at Glide.Tween.Update(Single elapsed) in D:\a\Blish-HUD\Blish-HUD\Blish HUD\Library\Glide\Tween.cs:line 79```
+   at Glide.Tween.Update(Single elapsed) in D:\a\Blish-HUD\Blish-HUD\Blish HUD\Library\Glide\Tween.cs:line 79
 - ```csharp
    System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
    at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
    at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
    at System.Linq.Enumerable.Any[TSource](IEnumerable`1 source)
-   at Glide.Tween.TweenerImpl.AddAndRemove() in D:\a\Blish-HUD\Blish-HUD\Blish HUD\Library\Glide\Tweener.cs:line 216```
+   at Glide.Tween.TweenerImpl.AddAndRemove() in D:\a\Blish-HUD\Blish-HUD\Blish HUD\Library\Glide\Tweener.cs:line 216
 
 ## How to use
 1. Add module to Blish HUD.
