@@ -1,0 +1,23 @@
+{
+  "name": "Tween Crash",
+  "version": "0.1.0",
+  "namespace": "Flyga.TweenCrash",
+  "package": "TweenCrash.dll",
+  "manifest_version": 1,
+
+  "description": "Acts as an tween crash example.",
+  "dependencies": {
+    "bh.blishhud": "^1.0.0"
+  },
+  "url": "https://github.com/blish-hud/Example-Blish-HUD-Module",
+  "contributors": [
+    {
+      "name": "Me",
+      "url": "https://github.com/yourGithubPage"
+    }
+  ],
+
+  "directories": [ ],
+  "enabled_without_gw2": false
+
+}
