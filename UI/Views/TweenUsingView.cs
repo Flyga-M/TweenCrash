@@ -1,10 +1,5 @@
 ﻿using Blish_HUD.Controls;
 using Blish_HUD.Graphics.UI;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using TweenCrash.UI.Controls;
 
 namespace TweenCrash.UI.Views
